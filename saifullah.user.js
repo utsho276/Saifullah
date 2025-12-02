@@ -16,8 +16,8 @@
 
     // ---- AUTHORIZATION FUNCTION (From Previous Script) ----
     // Replace 'authorizedUsername' and 'authorizedPassword' with your actual authorized credentials
-    var authorizedUsername = "husain";
-    var authorizedPassword = "9961";
+    var authorizedUsername = "saiful";
+    var authorizedPassword = "2010";
 
     // Function to prompt for credentials and check authorization
     function promptForAuthorization() {
